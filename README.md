@@ -72,7 +72,6 @@ Function Save(Data)
     txt.Writeline Data
     txt.Close
 End Function
-
 ---------------------
 
 2. Save the filename with
